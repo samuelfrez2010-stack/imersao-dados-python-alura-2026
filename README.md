@@ -1,2 +1,36 @@
-# imersao-dados-python-alura-2026
-Imersão dados com Python - Alura | Data Immersion with Python - Alura
+# Imersão Dados Python Alura 2026
+
+Este projeto foi desenvolvido durante a **Imersão Dados Python da Alura**. Ele consiste em uma ferramenta interativa para explorar e visualizar tendências salariais no mercado de dados global, permitindo filtros por senioridade, ano, tipo de contrato e tamanho da empresa.
+
+---
+
+## Tecnologias Utilizadas
+
+- **Python**: Linguagem base para toda a lógica e tratamento de dados.
+- **Pandas**: Biblioteca fundamental para manipulação e análise de DataFrames.
+- **Plotly**: Criação de gráficos dinâmicos e interativos.
+- **Streamlit**: Framework para transformar scripts Python em dashboards web.
+
+---
+
+## O que aprendi em cada aula?
+
+### Aula 1: Exploração de Dados com Pandas
+- Carregamento de datasets externos via URL.
+- Utilização de métodos como `.head()`, `.info()` e `.describe()` para entender a estrutura dos dados.
+- Análise de frequências e estatísticas básicas
+  
+### Aula 2: Limpeza e Preparação de Dados
+- Tratamento de valores nulos e duplicados.
+- Manipulação de colunas e tipos de dados.
+- Filtragem de dados específica para responder perguntas de negócio (ex: salários acima de X).
+
+### Aula 3: Visualização com Plotly
+- Criação de gráficos de barras, histogramas, gráficos circulares e mapas (choropleth).
+- Customização de escalas de cores e layouts de gráficos.
+- Agrupamento de dados (`groupby`) para gerar insights visuais.
+
+### Aula 4: Desenvolvimento de Dashboard Interativo
+- Estruturação de interface com `Streamlit`.
+- Barra Lateral Interativa (Sidebar): Implementação de filtros dinâmicos para seleção de anos e níveis de senioridade, permitindo consultas customizadas em tempo real.
+- Visualização de Dados Dinâmica: Integração de gráficos do Plotly que se adaptam automaticamente aos filtros aplicados pelo usuário.
