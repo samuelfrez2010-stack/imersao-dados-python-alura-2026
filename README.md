@@ -35,6 +35,8 @@ Este projeto foi desenvolvido durante a **Imersão Dados Python da Alura**. Ele 
 - Barra Lateral Interativa (Sidebar): Implementação de filtros dinâmicos para seleção de anos e níveis de senioridade, permitindo consultas customizadas em tempo real.
 - Visualização de Dados Dinâmica: Integração de gráficos do Plotly que se adaptam automaticamente aos filtros aplicados pelo usuário.
 
+---
+
 ## Acesso ao Projeto
 
 Você pode explorar o código-fonte completo, os dados utilizados e as atualizações deste dashboard diretamente através deste repositório:
@@ -42,6 +44,8 @@ Você pode explorar o código-fonte completo, os dados utilizados e as atualiza�
 **[Acesse o Repositório aqui](https://github.com/samuelfrez2010-stack/imersao-dados-python-alura-2026.git)**
 
 > **Nota:** Este projeto é open-source. Sinta-se à vontade para clonar, dar uma "estrela" no repositório ou contribuir com sugestões!
+
+---
 
 ## Futuras Melhorias e Evolução (Versão Autoral)
 
