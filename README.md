@@ -42,3 +42,14 @@ Você pode explorar o código-fonte completo, os dados utilizados e as atualiza�
 **[Acesse o Repositório aqui](https://github.com/samuelfrez2010-stack/imersao-dados-python-alura-2026.git)**
 
 > **Nota:** Este projeto é open-source. Sinta-se à vontade para clonar, dar uma "estrela" no repositório ou contribuir com sugestões!
+
+## Futuras Melhorias e Evolução (Versão Autoral)
+
+Este projeto foi o meu ponto de partida na análise de dados com Python. Embora siga a estrutura da Imersão Alura, já estou planejando uma **versão 2.0 totalmente autoral**, onde pretendo:
+
+- **Substituição do Dataset**: Aplicar a mesma lógica de análise em um conjunto de dados exclusivo (ex: mercado tech regional).
+- **Novas Funcionalidades Backend**: Implementar filtros de busca por texto livre e cálculos estatísticos avançados (como desvio padrão e projeções salariais).
+- **Otimização de Performance**: Refinar o uso do cache do Streamlit para lidar com volumes maiores de dados.
+- **Interface Customizada**: Desenvolver um layout focado em UX (User Experience) que vá além do modelo padrão de tutoriais.
+
+Meu objetivo é transformar esta base técnica em uma ferramenta personalizada que resolva problemas reais de negócio.
