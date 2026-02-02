@@ -57,3 +57,8 @@ Este projeto foi o meu ponto de partida na análise de dados com Python. Embora 
 - **Interface Customizada**: Desenvolver um layout focado em UX (User Experience) que vá além do modelo padrão de tutoriais.
 
 Meu objetivo é transformar esta base técnica em uma ferramenta personalizada que resolva problemas reais de negócio.
+
+---
+## Créditos
+
+Projeto desenvolvido durante a Imersão Dados com Python da Alura, sob orientação dos instrutores Marcell Almeida, Vinícius Caridá e Valquíria Alencar.
