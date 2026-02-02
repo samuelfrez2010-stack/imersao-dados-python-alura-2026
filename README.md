@@ -61,4 +61,4 @@ Meu objetivo é transformar esta base técnica em uma ferramenta personalizada q
 ---
 ## Créditos
 
-Projeto desenvolvido durante a Imersão Dados com Python da Alura, sob orientação dos instrutores Marcell Almeida, Vinícius Caridá e Valquíria Alencar.
+Projeto desenvolvido durante a Imersão Dados com Python da **Alura**, sob orientação dos instrutores **Marcell Almeida**, **Vinícius Caridá** e **Valquíria Alencar**.
