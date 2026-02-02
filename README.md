@@ -39,9 +39,9 @@ Este projeto foi desenvolvido durante a **Imersão Dados Python da Alura**. Ele 
 
 ## Acesso ao Projeto
 
-Você pode explorar o código-fonte completo, os dados utilizados e as atualizações deste dashboard diretamente através deste repositório:
+Você pode interagir com o Dashboard e explorar os dados ao vivo aqui:
 
-**[Acesse o Repositório aqui](https://github.com/samuelfrez2010-stack/imersao-dados-python-alura-2026.git)**
+**[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samuel-frez-santos-imersao-dados-python-alura-2026.streamlit.app/)**
 
 > **Nota:** Este projeto é open-source. Sinta-se à vontade para clonar, dar uma "estrela" no repositório ou contribuir com sugestões!
 
