@@ -43,8 +43,6 @@ Você pode interagir com o Dashboard e explorar os dados ao vivo aqui:
 
 **[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samuel-frez-santos-imersao-dados-python-alura-2026.streamlit.app/)**
 
-> **Nota:** Este projeto é open-source. Sinta-se à vontade para clonar, dar uma "estrela" no repositório ou contribuir com sugestões!
-
 ---
 
 ## Futuras Melhorias e Evolução (Versão Autoral)
